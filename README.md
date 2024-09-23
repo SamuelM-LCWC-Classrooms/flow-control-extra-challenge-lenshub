@@ -15,7 +15,7 @@ Your starter code is a function that will read in a list of names and store it i
 
 Each item of the list will be a string of the form "firstName lastName", for example:
 ```
-    ["Geoff Jefferson", "Gerogina Georgeson"]
+    ["Geoff Jefferson", "Georgina Georgeson"]
 ```
 and so on
 
